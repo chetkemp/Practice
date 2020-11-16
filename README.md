@@ -1,3 +1,5 @@
 # Start practicing
 
-estblishing workflows and version control
+establishing workflows and version control
+
+## practicing edits
