@@ -2,4 +2,5 @@
 
 establishing workflows and version control
 
-## practicing edits
+practicing edits
+added project folders
